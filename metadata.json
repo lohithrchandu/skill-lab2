@@ -1,0 +1,6 @@
+{
+  "name": "ArchiPaper AI - CS Research & System Architecture Agent",
+  "description": "Advanced Computer Science Research Agent specializing in academic paper analysis, architectural flowcharts, and actionable student development & internship project roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
